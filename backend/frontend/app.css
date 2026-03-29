@@ -1,0 +1,36 @@
+/* frontend/src/App.css */
+body {
+  font-family: sans-serif;
+  background: #0f172a;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  background: rgba(30, 41, 59, 0.8);
+  padding: 30px;
+  border-radius: 12px;
+  text-align: center;
+}
+
+input {
+  display: block;
+  margin: 10px auto;
+  padding: 8px;
+  border-radius: 6px;
+  border: none;
+  width: 200px;
+}
+
+button {
+  padding: 8px 20px;
+  border-radius: 6px;
+  border: none;
+  background: #38bdf8;
+  color: #0f172a;
+  font-weight: bold;
+  cursor: pointer;
+}
