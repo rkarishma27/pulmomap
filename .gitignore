@@ -1,0 +1,10 @@
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+*.pkl
+*.wav
+*.mp3
+*.zip
+*.tar.gz
+.env
